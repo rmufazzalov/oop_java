@@ -5,10 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5d7e9f0c-5e1c-46fa-83d1-c58409b85f7f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Arbalester.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Arbalester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Archer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/BaseHero.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/BaseHero.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Druid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Druid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Interf.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Interf.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Magician.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Magician.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Man.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Names.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Names.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Priest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Priest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Raider.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Raider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Shooter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Shooter.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/java/units/Sniper.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Sniper.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Spearman.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Spearman.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Villager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Villager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/Warrior.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java/units/Warrior.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java/units/XBowMan.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Arbalester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Arbalester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Archer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/BaseHero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/BaseHero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Druid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Druid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Interf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Interf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Magician.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Magician.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Man.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Names.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Names.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Priest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Priest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Raider.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Raider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Shooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Shooter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/units/Sniper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Sniper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Spearman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Spearman.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Villager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Villager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/Warrior.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/units/Warrior.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/units/XBowMan.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

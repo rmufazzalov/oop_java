@@ -2,16 +2,18 @@ package units;
 
 public class Arbalester extends Shooter {
 
-    public Arbalester(String name) {
-        super(name, 10, 10, 6, 2, 3,
-                3, 4, 16);
+    public Arbalester(String name, int team, int coordX, int coordY) {
+        super(name, 25, 25, 6, 2, 3,
+                3, 4, 16, team, coordX, coordY);
     }
 
     @Override
     public String getInfo() {
         return "Арбалетчик " + name +
                 " speed:" + speed +
-                " hp:" + hp;
+                " hp:" + hp +
+                " state:" + state +
+                " стрелы:" + ammunition;
     }
 
     @Override
