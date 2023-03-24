@@ -24,7 +24,7 @@ public abstract class Shooter extends BaseHero {
             }
         }
         if (ammunition > 0) {
-            BaseHero target = enemy.get(findNearest(enemy)); // цель атаки
+            BaseHero target = enemy.get(findNearest(enemy));
             target.getDamage(calculateDamage(target.defense));
             ammunition--;
         }

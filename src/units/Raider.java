@@ -1,8 +1,5 @@
 package units;
 
-/**
- * Разбойник
- */
 public class Raider extends Warrior {
 
     public Raider(String name, int team, int coordX, int coordY) {

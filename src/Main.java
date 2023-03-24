@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Main {
-    static final int SIZE_TEAM = 8;
+    static final int SIZE_TEAM = 6;
     public static ArrayList<BaseHero> redTeam, greenTeam, commonList;
 
     public static void main(String[] args) {

@@ -13,7 +13,6 @@ public abstract class Priest extends BaseHero {
 
     @Override
     public void step(ArrayList<BaseHero> friend, ArrayList<BaseHero> enemy) {
-        // сделать восстановление маны
         if (state.equals("Die") || mana == 0) return;
         BaseHero target = getWounded(friend);
         if (getDamageCondition(target) > 0.2f || target.hp - damageMax <= target.maxHp) {
